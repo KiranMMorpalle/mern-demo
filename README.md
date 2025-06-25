@@ -20,7 +20,7 @@ Each folder contains a standalone React project. To run any project locally:
 cd dayX-project
 npm install
 npm start
-
+```
 ## Multiple README.md files
 mern/
 ├── README.md             ← Main overview of entire MERN repo
