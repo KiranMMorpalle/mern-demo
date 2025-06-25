@@ -22,6 +22,7 @@ npm install
 npm start
 ```
 ## Multiple README.md files
+```
 mern/
 ├── README.md             ← Main overview of entire MERN repo
 ├── react/
@@ -32,4 +33,5 @@ mern/
 │   └── README.md         ← Express projects info
 └── other-folder/
     └── README.md         ← Docs for other stuff
+```
 
