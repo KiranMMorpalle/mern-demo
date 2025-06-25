@@ -36,6 +36,7 @@ mern/
 ```
 
 # 📂 Tips to Organize Pinned Repos Strategically
+```
 | Goal                       | Suggested Pins                         |
 | -------------------------- | -------------------------------------- |
 | 💻 Frontend Dev            | React, HTML/CSS, JS Projects           |
@@ -44,3 +45,4 @@ mern/
 | 💡 Innovation/Showcase     | Hackathon-winning or standout projects |
 | 📜 Certificates or Courses | Coursera / FreeCodeCamp project repos  |
 | 🔁 Reusable Components     | Custom UI kits, NPM packages, etc.     |
+```
