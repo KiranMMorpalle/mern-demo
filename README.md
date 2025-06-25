@@ -35,3 +35,12 @@ mern/
     └── README.md         ← Docs for other stuff
 ```
 
+# 📂 Tips to Organize Pinned Repos Strategically
+| Goal                       | Suggested Pins                         |
+| -------------------------- | -------------------------------------- |
+| 💻 Frontend Dev            | React, HTML/CSS, JS Projects           |
+| 🧠 Problem Solving         | DSA Repo, LeetCode Solutions           |
+| 🌐 Full-Stack Developer    | MERN projects, REST APIs               |
+| 💡 Innovation/Showcase     | Hackathon-winning or standout projects |
+| 📜 Certificates or Courses | Coursera / FreeCodeCamp project repos  |
+| 🔁 Reusable Components     | Custom UI kits, NPM packages, etc.     |
