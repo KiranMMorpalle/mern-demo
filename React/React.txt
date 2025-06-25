@@ -1,0 +1,10 @@
+[1] Install or Update NodeJs on system.
+[2] If needed allow permisition through powershell to run npm code
+
+Steps :
+
+-  npm create vite@latest my-app
+
+-  cd my-app
+
+-  npm run dev
