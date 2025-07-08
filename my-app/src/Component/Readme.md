@@ -1,7 +1,6 @@
-## Counter App
+## 🔢 Counter App
 
 ---
-## Color Picker
-
+## 🌈 Color Picker
 ---
-## Profile Card
+## 👤 Profile Card
