@@ -2,7 +2,7 @@ Here’s a **simple `README.md` file** for your React-based Myntra Clone project
 
 ---
 
-````md
+````
 # 🛍️ Myntra Clone - React JS
 
 A simple React-based clone of the Myntra shopping website with basic components like Navbar, Hero Section, Product List, Accordion FAQs, and Footer.
